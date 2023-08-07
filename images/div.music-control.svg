@@ -1,0 +1,14 @@
+<svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="div.music-control" clip-path="url(#clip0_1_48)">
+<rect id="div.music-control__rect" y="5.16" width="2.25" height="12.33" fill="#C9C9C9"/>
+<rect id="div.music-control__rect_2" x="5.25" y="1.09" width="2.25" height="20.14" fill="#C9C9C9"/>
+<rect id="div.music-control__rect_3" x="10.5" y="2.89999" width="2.25" height="13.47" fill="#C9C9C9"/>
+<rect id="div.music-control__rect_4" x="15.75" y="5.51001" width="2.25" height="13.98" fill="#C9C9C9"/>
+<rect id="div.music-control__rect_5" x="21" y="3.76999" width="2.25" height="13.95" fill="#C9C9C9"/>
+</g>
+<defs>
+<clipPath id="clip0_1_48">
+<rect width="23.25" height="19.5" fill="white" transform="translate(0 0.25)"/>
+</clipPath>
+</defs>
+</svg>
