@@ -269,11 +269,29 @@ body {
     margin-left: 650px;
 }
 
+
 .content-item-img img{
     width: auto;
-    position: absolute;
-    border: 1px dotted white;
+    margin-bottom: 70px;
     margin-right: 200px;
+    background-color: #6600FF;
+    border-radius: 20px;
+}
+
+.info-content-img-01 {
+    backdrop-filter: blur(3px);
+    border-radius: 20px;
+}
+
+.info-content-item {
+    backdrop-filter: blur(3px);
+    border-radius: 20px;
+    border: 1px solid #6600FF;
+}
+
+.content-item {
+    padding: 10px;
+    margin-bottom: 300px;
 }
 
 .scroll-btn {
